@@ -1,4 +1,4 @@
-# <a href="https://liwidev.com"><img src="https://raw.githubusercontent.com/Liwidev/resume/main/liwidev.jpg" width="50"></a> Hello, my name is Ignacio Salazar Williams
+# <a href="https://liwidev.com"><img src="https://raw.githubusercontent.com/Liwidev/Liwidev/main/liwidev.jpg" width="50"></a> Hello, my name is Ignacio Salazar Williams
 ## Consultant, FullStack Engineer & Solution Architect
 
 
